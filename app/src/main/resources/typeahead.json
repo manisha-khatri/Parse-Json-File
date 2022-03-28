@@ -1,0 +1,69 @@
+{
+  "navigationModules":
+  [
+    {
+      "type": "facet",
+      "displayName": "Screen size",
+      "facetName": "screen_size",
+      "values": [
+        {
+          "displayName": "Large",
+          "url": "http://walmart.com",
+          "image": "http://walmart.com"
+        },
+        {
+          "displayName": "Small",
+          "url": "http://walmart.com",
+          "image": "http://walmart.com"
+        }
+      ]
+    },
+    {
+      "type": "facet",
+      "displayName": "Color",
+      "facetName": "color",
+      "values": [
+        {
+          "displayName": "Blue",
+          "url": "http://walmart.com",
+          "image": "http://walmart.com"
+        },
+        {
+          "displayName": "Red",
+          "url": "http://walmart.com",
+          "image": "http://walmart.com"
+        }
+      ]
+    }
+  ],
+
+  "queries": [
+    {
+      "type": "QUERY",
+      "displayName": "nintendo switch",
+      "url": "query=nintendo%20switch&typeahead=nintendo",
+      "metaData": {
+        "deptId": "0",
+        "deptName": "All Departments"
+      }
+    },
+    {
+      "type": "QUERY",
+      "displayName": "nintendo switch",
+      "url": "query=nintendo%20switch&typeahead=nintendo",
+      "metaData": {
+        "deptId": "2636",
+        "deptName": "Video Games"
+      }
+    },
+    {
+      "type": "QUERY",
+      "displayName": "nintendo switch games",
+      "url": "query=nintendo%20switch%20games&typeahead=nintendo",
+      "metaData": {
+        "deptId": "0",
+        "deptName": "All Departments"
+      }
+    }
+  ]
+}
